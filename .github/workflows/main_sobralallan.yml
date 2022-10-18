@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'sobralAllan'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EF91E792DC04C44B9293ABD8235AFF5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93C19D1E47114F539647ACB2D4C1D6C0 }}
